@@ -24,7 +24,7 @@ ENTÃO a venda deve aparecer no Livro Caixa.
 |Estoque atualizado.|
 |Caixa alimentado.|
 |Teste realizado e evidenciado|
-|https://drive.google.com/file/d/1Z0IcYRJRrL-rlompSx4Jas-BFGHYMo_c/view?usp=drive_link|
+[|https://drive.google.com/file/d/1Z0IcYRJRrL-rlompSx4Jas-BFGHYMo_c/view?usp=drive_link|](https://drive.google.com/file/d/1SZcxt4SlIDkGIN8y-nZn63rqZbmoTNCE/view?usp=sharing)
 
 ### Caso de Teste 02: Produto sem estoque
 | ID       | Descrição                                                        |
@@ -45,7 +45,7 @@ ENTÃO deve exibir mensagem “Estoque insuficiente”.
 | :------------------------------------------------------------ |
 |Produto não deve entrar na venda.|
 |Teste realizado e reprovado: Produto sem estoque e venda foi finalizada normalmente|
-|https://drive.google.com/file/d/1mzNibPuDz-qtOPpbVVO4wqYZY3CZdVx_/view?usp=drive_link|
+[|https://drive.google.com/file/d/1mzNibPuDz-qtOPpbVVO4wqYZY3CZdVx_/view?usp=drive_link|](https://drive.google.com/file/d/1020yugC-x1YxUojU0VcrvA5dYatHJQkJ/view?usp=sharing)
 
 ### Caso de Teste 03: Desconto total bloqueado quando há desconto por item
 | ID       | Descrição                                                        |
@@ -66,7 +66,7 @@ ENTÃO deve bloquear com alerta.
 | :------------------------------------------------------------ |
 |Desconto total bloqueado.|
 |Teste realizado e reprovado: Não é possível realizar desconto por item|
-|https://drive.google.com/file/d/1L4F66vJsugCm20Yn6hD_Cpf2QHTJiNbt/view?usp=drive_link|
+[|https://drive.google.com/file/d/1L4F66vJsugCm20Yn6hD_Cpf2QHTJiNbt/view?usp=drive_link|](https://drive.google.com/file/d/1tLnKV5Feli2R1nxevlY68BsRrZmsgdWA/view?usp=sharing)
 
 ### Caso de Teste 04: Finalizar venda sem selecionar tipo de documento
 | ID       | Descrição                                                        |
@@ -87,4 +87,4 @@ ENTÃO deve exibir erro.
 | :------------------------------------------------------------ |
 |Finalização bloqueada.|
 |Teste evidenciado e aprovado|
-|https://drive.google.com/file/d/1wPKubhpaGaX-tixe5Bet4jsk9sI_U5Zk/view?usp=drive_link|
+[|https://drive.google.com/file/d/1wPKubhpaGaX-tixe5Bet4jsk9sI_U5Zk/view?usp=drive_link|](https://drive.google.com/file/d/17CJ31bdofZyLvNlsXqwxtfehInMF3w5f/view?usp=sharing)
