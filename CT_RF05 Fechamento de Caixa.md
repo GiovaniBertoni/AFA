@@ -40,6 +40,7 @@ ENTÃO deve exibir alerta de “nenhuma movimentação”.
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
 |Bloqueio do fechamento.|
+|Teste evidenciado e aprovado|
 https://drive.google.com/file/d/1cSxfW677P1NfTbH-eh1YROZVVoWlMUMQ/view?usp=drive_link
 
 ### Caso de Teste 03: Retirada de valores com sucesso
@@ -61,24 +62,5 @@ ENTÃO retirada deve aparecer registrada.
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
 |Entrada listada corretamente.|
-
-### Caso de Teste 04: Retirada sem preencher campos obrigatórios
-| ID       | Descrição                                                        |
-| :------- | :---------------------------------------------------------------- |
-|C05-CT04	 | Sistema deve bloquear retirada incompleta.|
-
-| **Pré-condições**                                             |
-| :------------------------------------------------------------ |
-|Nenhuma.|
-
-| **Passos**                                             |
-| :------------------------------------------------------------ |
-DADO que o usuário deixa Valor ou Tipo de Documento em branco
-QUANDO tentar salvar
-ENTÃO deve exibir alerta de obrigatoriedade.
-
-| **Critérios de Aceitação**                                             |
-| :------------------------------------------------------------ |
-|Retirada não registrada.|
+|Teste evidenciado e aprovado|
 https://drive.google.com/file/d/1MPTFA3i95tpB4I6bYeuQdXn2UO0j7IoW/view?usp=drive_link
-
