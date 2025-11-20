@@ -22,7 +22,7 @@ ENTÃO estoque deve ser alimentado.
 | :------------------------------------------------------------ |
 |Compra CONFIRMADA.|
 | Teste evidenciado e aprovado|
-| https://drive.google.com/file/d/1fqKH9aQK6nkugrr7FcaWXiHFm9g5HhhF/view?usp=drive_link|
+|https://drive.google.com/file/d/12goFMYpFykL3UcFnHZIe8VMvuHLCSEye/view?usp=drive_link
 
 ### Caso de Teste 02: Fornecedor não infomado.
 | ID       | Descrição                                                        |
@@ -43,7 +43,7 @@ ENTÃO sistema deve bloquear.
 | :------------------------------------------------------------ |
 |Mensagem “Fornecedor obrigatório”.|
 | Teste evidenciado e aprovado|
-| https://drive.google.com/file/d/1Faypdr3zP1ee76mG-4ot_lRE46MAWryP/view?usp=drive_link |
+|https://drive.google.com/file/d/1H1LUw8G80Md4wN2MRO9aAmugPRmuGJgW/view?usp=drive_link
 
 ### Caso de Teste 03: Tipo de documento inválido para compra a prazo
 | ID       | Descrição                                                        |
@@ -64,4 +64,4 @@ ENTÃO deve exibir alerta.
 | :------------------------------------------------------------ |
 |Documento não deve ser aceito.|
 | Teste realizado e evidenciado|
-| https://drive.google.com/file/d/1Hq4nj85S1h9CVpWzo3SGrfhW3n8OBEfA/view?usp=drive_link|
+|https://drive.google.com/file/d/1L4Vy350RqYCL1-slHm4zNs35B1TieEVp/view?usp=drive_link
