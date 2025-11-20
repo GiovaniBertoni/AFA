@@ -21,7 +21,7 @@ ENTÃO cliente deve aparecer na lista.
 | :------------------------------------------------------------ |
 |Cadastro salvo.|
 | Teste evidenciado e aprovado|
-| |
+| https://drive.google.com/file/d/1dp-k4BgbfeZafhUxaMIbZ7OAvGauiYgo/view?usp=drive_link
 
 ### Caso de Teste 02: Tentativa de salvar cliente sem campos obrigatórios
 | ID       | Descrição                                                        |
@@ -42,7 +42,7 @@ ENTÃO deve exibir alerta.
 | :------------------------------------------------------------ |
 |Cadastro bloqueado.|
 |Teste evidenciado e aprovado|
-| |
+|https://drive.google.com/file/d/1AZl_c-u1xAuntdTuoE-ymLpMVbYXHqFi/view?usp=drive_link
 
 ### Caso de Teste 03: Venda acima do limite de crédito
 | ID       | Descrição                                                        |
@@ -65,5 +65,5 @@ ENTÃO sistema alerta e abre fluxo de contas a receber.
 |Alerta exibido.|
 |Venda permitida após confirmação.|
 |Teste evidenciado e aprovado|
-| |
+|https://drive.google.com/file/d/1t1yPC2fxsYl4PL8zYC7O3JXynN0ihQDQ/view?usp=drive_link
 
