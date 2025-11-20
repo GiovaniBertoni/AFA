@@ -19,6 +19,7 @@ ENTÃO o caixa deve ser finalizado.
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
 |O dia fica bloqueado para novas movimentações.|
+|Teste evidenciado e aprovado|
 https://drive.google.com/file/d/1fJDjZeYBwYwMkqPxEu_m7fkKUB-eUEn-/view?usp=drive_link
 
 ### Caso de Teste 02: Tentar fechar caixa sem vendas no dia
