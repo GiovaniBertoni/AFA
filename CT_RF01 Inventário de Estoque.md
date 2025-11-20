@@ -24,7 +24,7 @@ ENTÃO o estoque deve ser atualizado e a compra aparecer como “CONFIRMADA”.
 |Compra confirmada.|
 |Produtos lançados no estoque.|
 |Teste realizado e evidenciado|
-|[https://drive.google.com/file/d/19IcXqvHAGEcWnFGf8sJlurvVz8TOsrMU/view?usp=drive_link](https://drive.google.com/file/d/1lu-KT2ayHpG6seFItkEy-AF12RbaFBLG/view?usp=sharing)
+|[[https://drive.google.com/file/d/19IcXqvHAGEcWnFGf8sJlurvVz8TOsrMU/view?usp=drive_link](https://drive.google.com/file/d/1lu-KT2ayHpG6seFItkEy-AF12RbaFBLG/view?usp=sharing)](https://docs.google.com/videos/d/1Iom0zpKfQizwAR4ehed9QhAePX3EWiV-Nrko0IWE6PI/edit?usp=sharing)
 
 ### Caso de Teste 02: Importar XML inválido
 | ID       | Descrição                                                        |
