@@ -21,7 +21,7 @@ ENTÃO cliente deve aparecer na lista.
 | :------------------------------------------------------------ |
 |Cadastro salvo.|
 | Teste evidenciado e aprovado|
-| https://drive.google.com/file/d/10gNX-L__EZzPAwGBLvtEDn0jzO160HQk/view?usp=drive_link|
+| |
 
 ### Caso de Teste 02: Tentativa de salvar cliente sem campos obrigatórios
 | ID       | Descrição                                                        |
@@ -42,7 +42,7 @@ ENTÃO deve exibir alerta.
 | :------------------------------------------------------------ |
 |Cadastro bloqueado.|
 |Teste evidenciado e aprovado|
-| https://drive.google.com/file/d/1eIEQjB3AgRr2jpCnZ3dfKWq_olC_zH2s/view?usp=drive_link|
+| |
 
 ### Caso de Teste 03: Venda acima do limite de crédito
 | ID       | Descrição                                                        |
@@ -65,25 +65,5 @@ ENTÃO sistema alerta e abre fluxo de contas a receber.
 |Alerta exibido.|
 |Venda permitida após confirmação.|
 |Teste evidenciado e aprovado|
-|https://drive.google.com/file/d/1LbZXmx6bXhMLDCbbp2WWUdhuD8CRoWxK/view?usp=drive_link|
+| |
 
-### Caso de Teste 04: Cadastrar dependente corretamente
-| ID       | Descrição                                                        |
-| :------- | :---------------------------------------------------------------- |
-|C04-CT04	 | Dependente deve ser vinculado ao cliente.|
-
-| **Pré-condições**                                             |
-| :------------------------------------------------------------ |
-|Cliente principal já cadastrado.|
-
-| **Passos**                                             |
-| :------------------------------------------------------------ |
-DADO que usuário acessa aba Dependentes
-E clica em “Novo”
-QUANDO selecionar cliente dependente
-ENTÃO ele deve ser vinculado.
-
-| **Critérios de Aceitação**                                             |
-| :------------------------------------------------------------ |
-|Dependente aparece listado.|
-|
