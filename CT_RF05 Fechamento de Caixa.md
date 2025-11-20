@@ -19,6 +19,7 @@ ENTÃO o caixa deve ser finalizado.
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
 |O dia fica bloqueado para novas movimentações.|
+https://drive.google.com/file/d/1fJDjZeYBwYwMkqPxEu_m7fkKUB-eUEn-/view?usp=drive_link
 
 ### Caso de Teste 02: Tentar fechar caixa sem vendas no dia
 | ID       | Descrição                                                        |
@@ -38,6 +39,7 @@ ENTÃO deve exibir alerta de “nenhuma movimentação”.
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
 |Bloqueio do fechamento.|
+https://drive.google.com/file/d/1cSxfW677P1NfTbH-eh1YROZVVoWlMUMQ/view?usp=drive_link
 
 ### Caso de Teste 03: Retirada de valores com sucesso
 | ID       | Descrição                                                        |
@@ -77,4 +79,5 @@ ENTÃO deve exibir alerta de obrigatoriedade.
 | **Critérios de Aceitação**                                             |
 | :------------------------------------------------------------ |
 |Retirada não registrada.|
+https://drive.google.com/file/d/1MPTFA3i95tpB4I6bYeuQdXn2UO0j7IoW/view?usp=drive_link
 
