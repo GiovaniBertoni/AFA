@@ -24,7 +24,7 @@ ENTÃO o estoque deve ser atualizado e a compra aparecer como “CONFIRMADA”.
 |Compra confirmada.|
 |Produtos lançados no estoque.|
 |Teste realizado e evidenciado|
-|https://drive.google.com/file/d/19IcXqvHAGEcWnFGf8sJlurvVz8TOsrMU/view?usp=drive_link
+|[https://drive.google.com/file/d/19IcXqvHAGEcWnFGf8sJlurvVz8TOsrMU/view?usp=drive_link](https://drive.google.com/file/d/1lu-KT2ayHpG6seFItkEy-AF12RbaFBLG/view?usp=sharing)
 
 ### Caso de Teste 02: Importar XML inválido
 | ID       | Descrição                                                        |
@@ -47,7 +47,7 @@ ENTÃO deve aparecer erro e bloqueio da ação.
 |Mensagem clara de erro.|
 |Não deve permitir gerar compra.|
 |Teste realizado e evidenciado|
-|https://drive.google.com/file/d/1SvRMaKu2XGwBeu8S5ycNsbf4zQs26HUl/view?usp=sharing|
+|[https://drive.google.com/file/d/1SvRMaKu2XGwBeu8S5ycNsbf4zQs26HUl/view?usp=sharing|](https://drive.google.com/file/d/13960rNE5l8k3lSVR1910E_aMR1DjlF02/view?usp=sharing)
 
 ### Caso de Teste 03: Falta de preenchimento obrigatório
 | ID       | Descrição                                                        |
@@ -69,7 +69,7 @@ ENTÃO deve exibir mensagens de “campo obrigatório”.
 | :------------------------------------------------------------ |
 |Campos obrigatórios validados.|
 |Testes realizados e evidenciados|
-|https://drive.google.com/file/d/1P4mI_k8QBf4f0ZSpxaSiWOVEDXv1kwvD/view?usp=sharing|
+|[https://drive.google.com/file/d/1P4mI_k8QBf4f0ZSpxaSiWOVEDXv1kwvD/view?usp=sharing|](https://drive.google.com/file/d/13ZpYeA6UFK5YSdBgH_ymO7JckMJt0wyb/view?usp=sharing)
 
 ### Caso de Teste 04: Gerar compra mas não confirmar entrada
 | ID       | Descrição                                                        |
@@ -90,4 +90,4 @@ ENTÃO a compra deve ficar com status “PENDENTE” e sem afetar o estoque.
 | :------------------------------------------------------------ |
 |Estoque não alterado.|
 |Teste realizado e evidenciado|
-|https://drive.google.com/file/d/12XTe2ksud8ca5nGODfp5UDoOCl89pG7C/view?usp=drive_link|
+|[https://drive.google.com/file/d/12XTe2ksud8ca5nGODfp5UDoOCl89pG7C/view?usp=drive_link|](https://drive.google.com/file/d/1WGIXFF3S46UEkiDcoz8ecTpYF5qQtTY9/view?usp=sharing)
