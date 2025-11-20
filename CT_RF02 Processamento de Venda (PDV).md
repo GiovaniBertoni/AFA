@@ -24,7 +24,7 @@ ENTÃO a venda deve aparecer no Livro Caixa.
 |Estoque atualizado.|
 |Caixa alimentado.|
 |Teste realizado e evidenciado|
-|[|https://drive.google.com/file/d/1Z0IcYRJRrL-rlompSx4Jas-BFGHYMo_c/view?usp=drive_link|](https://drive.google.com/file/d/1SZcxt4SlIDkGIN8y-nZn63rqZbmoTNCE/view?usp=sharing)
+|[[|https://drive.google.com/file/d/1Z0IcYRJRrL-rlompSx4Jas-BFGHYMo_c/view?usp=drive_link|](https://drive.google.com/file/d/1SZcxt4SlIDkGIN8y-nZn63rqZbmoTNCE/view?usp=sharing)](https://drive.google.com/file/d/1SZcxt4SlIDkGIN8y-nZn63rqZbmoTNCE/view?usp=drive_link)
 
 ### Caso de Teste 02: Produto sem estoque
 | ID       | Descrição                                                        |
